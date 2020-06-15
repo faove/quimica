@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Clases para nivel Universitario y Secundario en Química,Química Analitica
 
-You can use the [editor on GitHub](https://github.com/faove/quimica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Trabajamos todo el año, ocupándonos de que el alumno entienda, usando métodos didácticos y grupos reducidos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hacemos un seguimiento de la evolución, por medio de ejercitación y prácticas de parciales y/o finales.
+Profesora liangelve@hotmail.com
 
-### Markdown
+### Experiancia Laboral
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Licenciada en Química.
+	   Universidad de Oriente de Venezuela
+Magister en Análisis de Procesos de la Industria Química.
+	   Instituto Universitario de Tecnología de Venezuela.
+     
+## EXPERIENCIA PROFESIONAL
+Docente a dedicación exclusiva en el área de Química Analítica,  Fisicoquímica, Química I y II.
+Instituto Universitario de Tecnología de Cumaná,  Universidad de Oriente Núcleo de Sucre.  
+Profesora contratada en el área de Química, Física y Matemáticas. 
+E.T. Agropecuaria  de  Pesca.  Instituto Nacional de Cooperación Educativa.  I.N.C.E.  y  Liceo Fe y Alegría San Luís. 
 
-```markdown
-Syntax highlighted code block
+## Disponible en Clases Online!
 
-# Header 1
-## Header 2
-### Header 3
+### Contactenos:
 
-- Bulleted
-- List
+**liangelve@hotmail.com** 
 
-1. Numbered
-2. List
+### WhatsApp
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/faove/quimica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++54 9 3517469826
