@@ -1,9 +1,10 @@
-# Clases para nivel Universitario y Secundario en Química,Química Analitica
+# Clases Online para nivel Universitario y Secundario en Química,Química Analitica
 
 Trabajamos todo el año, ocupándonos de que el alumno entienda, usando métodos didácticos y grupos reducidos.
 
 Hacemos un seguimiento de la evolución, por medio de ejercitación y prácticas de parciales y/o finales.
-Profesora liangelve@hotmail.com
+
+### Profesora Liangel Brito
 
 ### Experiancia Laboral
 
